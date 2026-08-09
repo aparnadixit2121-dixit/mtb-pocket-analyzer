@@ -33,13 +33,13 @@ kasB came out on top — near-perfect druggability and a binding pocket structur
 
 **Structural similarity heatmap (Phase 2):**
 
-![TM-score heatmap](tm_score_heatmap(1).png)
+![TM-score heatmap](tm_score_heatmap%20(1).png)
 
 The human DHFR control (red label) clusters entirely separately from all M. tuberculosis proteins in the dendrogram — confirming these bacterial enzymes have fundamentally different folds from the human protein. Also worth noting: hadA and hadB scored 0.60 with each other, the highest off-diagonal score in the matrix. They are the two subunits of the same enzyme, so the pipeline picking that up automatically is a nice sanity check.
 
 **Pocket similarity clustering (Phase 3):**
 
-![UMAP plot](pocket_umap(3).png)
+![UMAP plot](pocket_umap%20(3).png)
 
 DHFR sits isolated in pocket space (bottom right), far from most M. tuberculosis proteins. One exception: fabH clusters near DHFR in pocket space, suggesting its pocket chemistry is more human-like despite ranking #2 overall. This is a selectivity caveat worth noting — pocket-level analysis reveals risks that fold-level comparison alone can miss.
 
