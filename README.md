@@ -166,5 +166,5 @@ mtb-pocket-analyser/
 
 
 
-*BS-MS Biological Sciences with Chemistry minor — IISER Bhopal*
+*BS-MS Biological Sciences major with Chemistry minor — IISER Bhopal*
 *Independent computational biology project, 2026*
